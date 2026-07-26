@@ -1,6 +1,6 @@
 # Naive Bayes Classifier
 
-Under construction.
+A Gaussian Naive Bayes classifier for continuous features with synthetic 2D data generation, training, and accuracy evaluation. Results displayed in an interactive ratatui terminal interface.
 
 ## ScreenShots
 
